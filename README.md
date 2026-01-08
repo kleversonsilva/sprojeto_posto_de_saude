@@ -14,7 +14,7 @@ O **MedConnect** é um protótipo de alta fidelidade desenvolvido no Figma para 
 
 ## 🎨 Protótipo no Figma
 Você pode interagir com o protótipo completo através do link abaixo:
-👉 [**Acessar Protótipo no Figma**](SEU-LINK-AQUI)
+👉 [**Acessar Protótipo no Figma**](https://www.figma.com/design/JvA3l6V9pPLaPnZ96Il51Z/Medy-App?node-id=0-1&t=QgJKpKIkZOJY3piH-1)
 
 ## 🛠️ Tecnologias Utilizadas
 * **Figma** (Design de Interface e Prototipagem)
