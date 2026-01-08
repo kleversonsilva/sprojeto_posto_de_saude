@@ -1,7 +1,7 @@
 # 🏥 MedConnect - Sistema de Gestão Para Unidades Básicas de Saúde
 
-![Capa do Projeto](![ft9](https://github.com/user-attachments/assets/2ae1008e-cdb9-4660-8f85-a3718a2ed75e)
-)
+(![ft9](https://github.com/user-attachments/assets/2ae1008e-cdb9-4660-8f85-a3718a2ed75e)
+
 
 ## 📌 Sobre o Projeto
 O **MedConnect** é um protótipo de alta fidelidade desenvolvido no Figma para otimizar o fluxo de atendimento em Unidades Básicas de Saúde (UBS). O sistema visa centralizar o cadastro de profissionais, pacientes e a gestão completa de agendamentos e resultados de exames em uma interface intuitiva e acessível.
